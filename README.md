@@ -24,4 +24,5 @@ As features estão dividas em módulos `/lib/modules` e os recursos compartilhad
 - Faça o Commit das suas alterações: `git commit -m 'feat: My new feature'`
 - Suba seus commits e abra uma Pull Request: `git push origin my-feature`
 ---
-#### <center>[Mobiplus :heart:](https://www.mobiplus.com.br)</center> 
+
+<h3 align="center"> <a href="https://www.mobiplus.com.br" target="_blank">Mobiplus ❤️ </a> </h3>
